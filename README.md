@@ -95,9 +95,14 @@ I enjoy understanding how systems work, solving programming challenges, and buil
 
 ## Connect
 
+<h2>🌐 Connect With Me</h2>
+
 <p align="left">
-  <a href="https://github.com/Tejas-Shivaji">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/tejas-g-31537435b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ll_tejas_shivaji_ll/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
