@@ -88,13 +88,30 @@ An ongoing Android project evolving from GlyphFlow. It explores a configurable g
 
 *Currently under development.*
 
-### 03. OrbitGuard-AI
+### ### 03. OrbitGuard-AI
 
-**AI-Oriented Application**
+**Satellite Tracking & Orbital Intelligence Platform**
 
-A Python-based project exploring AI-oriented application workflows and interactive data presentation.
+A Python-based orbital intelligence platform designed to monitor satellite activity, visualize orbital movements and support space situational awareness.
 
-**Technologies:** Python · Streamlit
+The platform integrates satellite TLE data, orbital propagation and analytical workflows to explore satellite positions, monitor orbital conditions and identify potential conjunction risks.
+
+**Key Features:**
+- Interactive 3D Earth and satellite-orbit visualization.
+- Satellite tracking using Two-Line Element (TLE) data.
+- Orbital propagation using the SGP4 model.
+- Satellite selection and filtering.
+- Conjunction risk screening and orbital analysis.
+- Indian space-asset monitoring.
+- TLE data health checks and mission-priority insights.
+
+**Technologies:** Python · Streamlit · Plotly · NumPy · Pandas · SGP4
+
+<p>
+  <a href="https://github.com/Tejas-Shivaji/OrbitGuard-AI">
+    <img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+  </a>
+</p>
 
 ### 04. Problem Solving
 
