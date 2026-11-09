@@ -88,7 +88,7 @@ An ongoing Android project evolving from GlyphFlow. It explores a configurable g
 
 *Currently under development.*
 
-### ### 03. OrbitGuard-AI
+### 03. OrbitGuard-AI
 
 **Satellite Tracking & Orbital Intelligence Platform**
 
@@ -110,6 +110,9 @@ The platform integrates satellite TLE data, orbital propagation and analytical w
 <p>
   <a href="https://github.com/Tejas-Shivaji/OrbitGuard-AI">
     <img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+  </a>
+  <a href="https://orbitguard-by-tejas.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo" />
   </a>
 </p>
 
